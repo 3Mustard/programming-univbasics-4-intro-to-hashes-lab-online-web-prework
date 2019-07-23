@@ -1,9 +1,9 @@
 def new_hash
-  # return an empty hash
+  empty_hash = {}
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  my_cat_hash = {cat1: "akira", cat2: "Lenny", cat3: "Princess"}
 end
 
 def pioneer
